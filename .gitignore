@@ -1,4 +1,5 @@
 .cache
+/.worksheet
 /submission
 /target
 /lib_managed
